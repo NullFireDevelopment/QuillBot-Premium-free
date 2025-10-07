@@ -67,15 +67,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 ## ⭐ Show your support
 
 Give a ⭐️ if this project helped you!
-
-## Buy Me A Coffee
-
-<a href="https://www.buymeacoffee.com/ragu2k" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-## 🌐 Website
-
-Visit my website [here](https://raguggg.github.io/).
-
-## 📊 Repository Views
-
-![Views](https://profile-counter.glitch.me/quillbot-premium-for-free/count.svg)
